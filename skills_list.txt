@@ -1,0 +1,10 @@
+python
+machine learning
+sql
+excel
+communication
+java
+html
+css
+tensorflow
+pandas

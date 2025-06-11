@@ -1,0 +1,7 @@
+[
+  {"skill": "sql", "title": "Intro to SQL – Khan Academy", "link": "https://www.khanacademy.org/computing/computer-programming/sql"},
+  {"skill": "machine learning", "title": "ML by Stanford – Coursera", "link": "https://www.coursera.org/learn/machine-learning"},
+  {"skill": "tensorflow", "title": "TensorFlow Crash Course – YouTube", "link": "https://www.youtube.com/watch?v=tPYj3fFJGjk"},
+  {"skill": "excel", "title": "Excel Basics – Microsoft", "link": "https://support.microsoft.com/excel"},
+  {"skill": "html", "title": "HTML & CSS – freeCodeCamp", "link": "https://www.freecodecamp.org/learn/"}
+]
