@@ -25,4 +25,5 @@ An intelligent Streamlit-based web app that analyzes uploaded resumes (PDF) to:
 
 ## To Start
 -  pip install -r requirements.txt
--  python -m pip install streamlit 
+-  python -m pip install streamlit
+-   python -m streamlit run app.py  
